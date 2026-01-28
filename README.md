@@ -1,10 +1,8 @@
 # Woolf University. React Course. Homework – Async Redux &amp; Memoization
 
-# Async Redux & Memoization – Contacts App
+## Overview
 
-## Task
-
-Refactor the **Contacts app** to use **async Redux logic** instead of local storage persistence.
+Refactor the **Contacts app** (see https://github.com/denys-kniaziev/goit-neo-react-hw-module6) to use **async Redux logic** instead of local storage persistence.
 
 * Remove **Redux Persist**
 * Store contacts on a backend via HTTP
